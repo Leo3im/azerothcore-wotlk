@@ -4,6 +4,7 @@
 
 /conf/*
 !/conf/dist
+/data/sql/custom/*
 /modules/*
 !/modules/*.md
 !/modules/*.sh
