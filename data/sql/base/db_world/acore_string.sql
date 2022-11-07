@@ -48,7 +48,7 @@ INSERT INTO `acore_string` (`entry`, `content_default`, `locale_koKR`, `locale_f
 	(8, 'Possible subcommands:', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
 	(9, 'Commands available to you:', NULL, NULL, 'Befehle, die für Euch verfügbar sind:', '你可以当前可以使用的命令:', NULL, 'Comandos disponibles:', 'Comandos disponibles:', NULL),
 	(10, 'Incorrect syntax.', NULL, NULL, 'Falsche Syntax.', '命令语法格式错误。', NULL, 'Incorrect syntax.', 'Incorrect syntax.', NULL),
-	(11, 'Your account level is: %i', NULL, NULL, 'Euer Accountlevel ist: %i', '你账号的等级为: %i', NULL, 'Su nivel de cuenta es: %i', 'Su nivel de cuenta es: %i', NULL),
+	(11, '|cFFFF0000Your account level is: |cFF00FF00%i', NULL, NULL, 'Euer Accountlevel ist: %i', '你账号的等级为: %i', NULL, 'Su nivel de cuenta es: %i', 'Su nivel de cuenta es: %i', NULL),
 	(12, 'Active connections: %u (max: %u) Queued connections: %u (max: %u)', NULL, NULL, 'Anzahl der verbundenen Spieler: %u (Maximum: %u) Spieler in der Warteschlange: %u (Maximum: %u)', '实际连接数量: %u (最多时: %u)， 排队人数: %u (最多时: %u)', NULL, 'Conexiones activas: %u (máx.: %u) Conexiones en cola: %u (máx.: %u)', 'Conexiones activas: %u (máx.: %u) Conexiones en cola: %u (máx.: %u)', NULL),
 	(13, 'Server uptime: %s', NULL, NULL, 'Laufzeit des Servers: %s', '服务器运行时间: %s', NULL, 'Tiempo de actividad del servidor: %s', 'Tiempo de actividad del servidor: %s', NULL),
 	(14, 'Player saved.', NULL, NULL, 'Spieler gespeichert.', '玩家数据保存完毕。', NULL, 'Jugador guardado.', 'Jugador guardado.', NULL),
